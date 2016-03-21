@@ -4,7 +4,11 @@ Git has mutable index called stage.
 Git tracks chages of files.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 =======
 Creating a new branch is quick and simple.
 >>>>>>> featurel
 
+=======
+Switched to a new branch 'dev'
+>>>>>>> dev
